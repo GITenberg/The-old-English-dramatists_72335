@@ -1,0 +1,33 @@
+_repo: The-old-English-dramatists_72335
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lowell, James Russell
+    aliases:
+    - Wilbur, Homer
+    - Meliboeus-Hipponax
+    birthdate: 1819
+    deathdate: 1891
+    gutenberg_agent_id: '456'
+    url: http://www.gutenberg.org/2009/agents/456
+    wikipedia: https://en.wikipedia.org/wiki/James_Russell_Lowell
+description: ''
+gutenberg_issued: '2023-12-05'
+identifiers:
+  gutenberg: '72335'
+language: en
+pgterms:marc904: https://archive.org/details/oldenglishdramat00loweiala/page/n7/mode/2up
+pgterms:marc905: 20210928152421lowell
+pgterms:marc906: '1892'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aBoston :$bHoughton, Mifflin and Company, $c1892, pubdate 1893.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The old English dramatists
+url: http://www.gutenberg.org/ebooks/72335
